@@ -12,6 +12,8 @@
       "ios",
       "android",
       "web"
-    ]
+    ],
+    "description": "This challenge aims to assess the capability to develop a react native screen consuming a websocket event-based API.",
+    "githubUrl": "https://github.com/aseemnishad/testapp.git"
   }
 }

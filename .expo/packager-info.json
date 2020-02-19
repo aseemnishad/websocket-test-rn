@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 68346,
+  "expoServerNgrokUrl": "https://5z-z6z.aseemnish.testapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.5z-z6z.aseemnish.testapp.exp.direct",
+  "ngrokPid": 68394,
   "webpackServerPort": 19006
 }
